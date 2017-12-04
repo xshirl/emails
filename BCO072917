@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>BCO - Bargain Catalog Outlet&reg;</title>
+
+</head>
+
+<body>
+
+<center>
+
+<table width="700" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" >
+  <tr><td>
+  
+<table width="700" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" >
+  <tr>
+      <td valign="top" style="font-family: Arial, Verdana, Helvetica, Sans-serif; font-size: 9px; color: #666666; text-align: center; padding:4px 0px; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+      <% if (document.mode!='mirror') { %><a href="<%@ include view='MirrorPageUrl' %>" style="color: #666666; text-decoration: underline;">View in browser</a><% } %></td>
+  </tr>
+</table>
+
+
+
+<table width="700" border="0" cellpadding="0" cellspacing="0" >
+	<tr>
+		<td><a href="http://www.bcoutlet.com/"><img style="display:block;" src="images/1024_BCO_Email_Header.jpg" width="700" height="76" border="0" alt="BCoutlet.com"></a></td>
+	</tr>
+</table>	 
+
+
+<table width="610" border="0" cellpadding="0" cellspacing="0" >    
+  <tr>
+    <td>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><a href="http://www.bcoutlet.com/Discount-Womens-Plus-Size.aspx?DeptId=16364"><img src="images/1024_BCO_Email_01.jpg" alt="Women's Plus Size" width="77" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-MENS-BIG-and-TALL.aspx?DeptId=13893"><img src="images/1024_BCO_Email_02.jpg" alt="Men's Big and Tall" width="83" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-OUTLET-EXCLUSIVES.aspx?DeptId=19145"><img src="images/1024_BCO_Email_03.jpg" alt="Outlet Exclusives" width="89" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-Shoes.aspx?DeptId=13869"><img src="images/1024_BCO_Email_04.jpg" alt="Shoes" width="65" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-FOR-THE-HOME.aspx?DeptId=13924"><img src="images/1024_BCO_Email_05.jpg" alt="Home" width="67" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-999-and-Under.aspx?DeptId=18379"><img src="images/1024_BCO_Email_06.jpg" alt="9.99 and under" width="106" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-Recently-Reduced.aspx?DeptId=14941"><img src="images/1024_BCO_Email_07.jpg" alt="Recently Reduced" width="128" height="29" border="0"  style="display:block;"></a></td>
+          <td><a href="http://www.bcoutlet.com/Discount-Womens-Plus-Size.aspx?DeptId=16364"><img src="images/1024_BCO_Email_08.jpg" alt="What's New" width="85" height="29" border="0" style="display:block;"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>    
+</table>
+
+<!-- Hero Table Start -->
+
+<table width="700" border="0" cellpadding="0" cellspacing="0" >
+	<tr>
+		<td><img src="images/BCO_072917_v4_01.jpg" border="0"  style="display:block;"></td>
+     
+  	</tr>
+</table>
+  	
+    <table width="700" border="0" cellpadding="0" cellspacing="0" >
+	<tr>
+		<td><a href="http://www.bcoutlet.com/Discount-Coats.aspx?DeptId=13857"><img src="images/BCO_072917_v4_02.jpg" border="0"  style="display:block;"></a></td>
+     	<td><a href="http://www.bcoutlet.com/Discount-Boots.aspx?DeptId=13872"><img src="images/BCO_072917_v4_03.jpg" border="0"  style="display:block;"></a></td>
+        <td><a href="http://www.bcoutlet.com/Discount-Coats-and-Jackets.aspx?DeptId=14381"><img src="images/BCO_072917_v4_04.jpg" border="0"  style="display:block;"></a></td>
+  	</tr>
+   
+    	
+ </table>
+
+<table width="700" border="0" cellpadding="0" cellspacing="0" >
+	<tr>
+    	<td><a href="http://www.bcoutlet.com/Discount-Sweaters.aspx?DeptId=13850"><img src="images/BCO_072917_v4_05.jpg" border="0"  style="display:block;"></a>
+        </td>
+   </tr>
+ </table>
+ 
+
+
+<!-- Brand Banner Tables -->
+ 
+<table width="700" border="0" cellpadding="0" cellspacing="0">   
+   <tr>
+   	   
+    	<td><img style="display:block;" src="images/BCO_070417_email_04.jpg" border="0"></td>    
+ </tr>
+ </table>
+ <table width="700" border="0" cellpadding="0" cellspacing="0"> 
+   <tr>
+   	   
+    	<td><a  href="http://www.bcoutlet.com/Discount-Woman-Within-Outlet.aspx?DeptId=28984"><img style="display:block;" src="images/BCO_070417_email_05.jpg" border="0"></a></td>    
+    	<td><a  href="http://www.bcoutlet.com/Discount-Jessica-London-Outlet.aspx?DeptId=28983"><img style="display:block;" src="images/BCO_070417_email_06.jpg" border="0"></a></td>    
+    	<td><a  href="http://www.bcoutlet.com/Discount-Roamans-Outlet.aspx?DeptId=28954"><img style="display:block;" src="images/BCO_070417_email_07.jpg" border="0"></a></td>    
+   </tr>
+</table>
+
+<table width="700" border="0" cellpadding="0" cellspacing="0"> 
+      <tr>
+    	<td><a href="http://www.bcoutlet.com/Discount-FOR-THE-HOME.aspx?DeptId=13924"><img style="display:block;" src="images/BCO_070417_email_08.jpg" border="0"></a></td>    
+    	<td><a  href="http://www.bcoutlet.com/Discount-MENS-BIG-and-TALL.aspx?DeptId=13893"><img style="display:block;" src="images/BCO_070417_email_09.jpg" border="0"></a></td>    
+   	  </tr>
+</table>      
+
+
+
+
+<!-- Bottom Banners -->
+
+
+<table width="700" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+    	<td><a href="http://www.bcoutlet.com/outlet/Y-Neck-Georgette-Dress.aspx?PfId=539648&DeptId=13864&ProductTypeId=1&PurchaseType=G&pref=ps&ppos=1&Splt=0&StyleNo=2275"><img style="display:block;" src="images/BCO_072517_02.jpg" border="0"></a></td>
+    	<td><a href="http://www.bcoutlet.com/Discount-Sleeveless.aspx?DeptId=18031"><img style="display:block;" src="images/BCO_072517_03.jpg" border="0"></a></td>
+    </tr>
+
+
+    
+   	<tr>
+    	<td><a href="http://www.bcoutlet.com/Discount-Swimwear.aspx?DeptId=13858"><img style="display:block;" src="images/BCO_072517_04.jpg" border="0"></a></td>
+    	<td><a href="http://www.bcoutlet.com/Discount-FOR-THE-HOME.aspx?DeptId=13924"><img style="display:block;" src="images/BCO_072517_05.jpg" border="0"></a></td>
+    </tr>
+   
+</table>
+
+
+<table width="700" border="0" cellpadding="0" cellspacing="0">   
+    <tr>
+    	<td><a href="http://www.bcoutlet.com/Discount-Shoes-and-Accessories.aspx?DeptId=13869"><img style="display:block;" src="images/BCO_072517_06.jpg" border="0"></a></td>
+        <td><a href="http://www.bcoutlet.com/Discount-Womens-Accessories.aspx?DeptId=14746"><img style="display:block;" src="images/BCO_072517_07.jpg" border="0"></a></td>
+    	
+  
+   </tr>
+   
+
+</table>
+ 
+<!-- Social Icons -->
+<table width="700" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img style="display:block;" src="images/BCO_102015_21.jpg" alt="Get to Know Us" ></td>
+    <td><a href="https://www.facebook.com/pages/BCOutlet/111232588933342"><img style="display:block;" src="images/BCO_102015_22.jpg"  border="0" alt="Facebook" ></a></td>
+    <td><a href="https://twitter.com/BCOutlet"><img style="display:block;" src="images/BCO_102015_23.jpg" border="0" alt="Twitter" ></a></td>
+    <td><a href="http://bcoutlet.blogspot.com/"><img style="display:block;" src="images/BCO_102015_24.jpg" border="0" alt="BCO Blog" ></a></td>
+    <td><img style="display:block;" src="images/BCO_102015_25.jpg"  ></td>
+  </tr>
+</table>
+
+
+<table width="700" border="0" cellpadding="0" cellspacing="0">
+     
+     <tr>
+<td align="center" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; color:#000000;">
+<strong> *Here's how to redeem your promo code: </strong> <br/>
+1. Place one or more eligible items in your Shopping Cart. <br/>
+
+2. Type the promo code BCXMASBASH into the Promotion Code Box, then click apply. <br/>
+
+3. When you shop Women’s ‘COATS’ and/or ‘ BOOTS’, categories, and/or Men’s ‘COATS & JACKETS’category, $29.99 price will be automatically applied to items currently priced above $29.99, if eligible*. <strong>Discount applies only to items in categories listed above. </strong><br/>
+
+4. Continue shopping or begin checkout. <br/> <br/>
+<strong>*Promo code restrictions: </strong> <br/>
+offer ends 11:59PM E.S.T. Sunday 7/30/17. Discount is applied to merchandise only, not including shipping, handling or taxes. Not to be combined with other offers. Not applicable to payment of bills or charges. Discount may not be applied to prior purchases, or E-Gift cards. Limited to one offer per customer.
+ <br/> <br/>
+
+</td>
+
+        
+      
+   
+        
+  </tr>
+    
+  <!-- -->
+ <tr>
+    <td align="center" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; color:#000000;">
+      Add BCOutlet@email.BCOutlet.com to your email address book and keep the deals 
+      coming! <br />Be the first to know about online deals and special promotions.<br /><br /> 
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="font-size: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000;">
+   
+    
+   Register with us to access all of our convenient site features! It's fast, easy and secure. 
+    <a href="http://www.bcoutlet.com/Account/Acct_CreateProfile.aspx">click here</a>. 
+    To subscribe to our email list <a href="http://www.bcoutlet.com/Catalog/Catalog_EmailCatalogRequest.aspx?">click here.</a>
+    *Savings of up to 75% based upon intermediate markdowns taken.
+    Read our <a href="http://www.bcoutlet.com/Help/PrivacySecurity.aspx">Privacy Policy.</a> 
+  
+    To reply to this e-mail, please use our <a href="https://www.bcoutlet.com/ContactUs/ContactUs.aspx">Customer Contact Form</a>. 
+    To unsubscribe from our e-mail list, <a href="https://www.bcoutlet.com/Account/Email_Unsubscribe.aspx">click here</a>. 
+   
+    <br>
+    <br>
+    Bargain Catalog Outlet&reg;, 2300 Southeastern Ave, Indianapolis, IN 46201
+    </td>
+  </tr>
+</table>
+
+</td></tr></table>
+
+
+</body>
+</html>
